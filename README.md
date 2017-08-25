@@ -1,1 +1,1 @@
-# test of notebook
+# Demonstration of the Python-NEURON interface
